@@ -18,4 +18,4 @@ The ESP32 reads the potentiometer value using `analogRead()`.
 The value is printed on the Serial Monitor every 500 ms.
 
 ## Wokwi Simulation
-https://wokwi.com/projects/476209578809472001
+https://wokwi.com/projects/476324024086313985
